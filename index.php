@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Individual Task Pemrograman Web</title>
+  <title>Individual Task Pemrograman Web Framework</title>
   <link rel="stylesheet" href="style.css" />
   <link rel="shortcut icon" href="yuwaraja.ico">
 </head>
@@ -104,7 +104,7 @@
         <div class="formbold-input-flex">
           <div>
             <label for="state" class="formbold-form-label">
-              State/Province
+              Kota / Provinsi
             </label>
             <input
               type="text"
@@ -114,7 +114,7 @@
               required />
           </div>
           <div>
-            <label for="country" class="formbold-form-label"> Country </label>
+            <label for="country" class="formbold-form-label"> Negara </label>
             <input
               type="text"
               name="country"
@@ -127,7 +127,7 @@
         <div class="formbold-input-flex">
           <div>
             <label for="post" class="formbold-form-label">
-              Post/Zip code
+              Kode Pos
             </label>
             <input
               type="text"
@@ -136,8 +136,7 @@
               class="formbold-form-input"
               required />
           </div>
-          <div>
-            <label for="area" class="formbold-form-label"> Area Code </label>
+          <div>Kode Area </label>
             <input
               type="text"
               name="area"
@@ -175,7 +174,7 @@
           </label>
         </div>
 
-        <button type="submit" class="formbold-btn">Register Now</button>
+        <button type="submit" class="formbold-btn">Daftar Sekarang</button>
       </form>
     </div>
   </div>
